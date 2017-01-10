@@ -1,0 +1,5 @@
+h1{
+  color: red;
+}
+
+ul li.checked>.text{text-decoration: line-through;}
